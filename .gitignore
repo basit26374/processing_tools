@@ -1,0 +1,15 @@
+# images
+
+*.png
+*.jpg
+
+# videos
+
+*.mp4
+*.avi
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
+
